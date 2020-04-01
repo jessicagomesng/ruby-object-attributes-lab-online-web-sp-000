@@ -6,7 +6,7 @@ class Person
 
   def name
     @name
-    emd
-    
+  end 
+
 
 end
